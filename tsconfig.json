@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "typeRoots": ["typings"],
+    "outDir": "dist",
+    "module": "commonjs"
+  },
+  "include": ["src", "txt.d.ts"]
+}
